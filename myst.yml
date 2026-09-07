@@ -1,0 +1,101 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+
+project:
+  id: 91afce94-bfdd-4622-a718-67b086c2e895
+  title: Mathematik Skript
+
+  toc:
+
+    - file: Willkommen.ipynb
+      title: Willkommen
+
+    # ------------------------------------------------
+    # Kapitel 3
+    # ------------------------------------------------
+
+    - title:  Gauß-Eliminationsverfahren
+      children:
+        - file: 03_GaussEliminations.ipynb
+          title:  Gauß-Elimination und Vektorräume
+
+        - file: 02_LineareGleichungssysteme.ipynb
+          title: Lineares Gleichungssystem
+
+    # ------------------------------------------------
+    # Kapitel 4
+    # ------------------------------------------------
+
+    - title: Vektoren und Matrizen
+      children:
+
+        - file: Matrixoperationen.ipynb
+          title:  Matrixoperationen
+
+        - file: AnwendungMatrixoperationen.ipynb
+          title:  Anwendungen in der Bildverarbeitung
+
+        - file: VektorMatrix_Norm.ipynb
+          title:  Vektor- und Matrixnormen
+
+    # ------------------------------------------------
+    # Kapitel 5
+    # ------------------------------------------------
+
+    - title:  Skalarprodukte
+      children:
+
+        - file: Skalarprodukt.ipynb
+          title:  Skalarprodukte
+
+    # ------------------------------------------------
+    # Kapitel 6
+    # ------------------------------------------------
+
+    - title: Determinante
+      children:
+
+        - file: Determinanten.ipynb
+          title: Determinante
+
+    # ------------------------------------------------
+    # Kapitel 7
+    # ------------------------------------------------
+
+    - title:  Spezielle Matrizen
+      children:
+
+        - file: Spezielle_Matrizen.ipynb
+          title:  Spezielle Matrizen
+
+    # ------------------------------------------------
+    # Kapitel 8
+    # ------------------------------------------------
+
+    - title:  Berechnung der Inverse einer Matrix
+      children:
+
+        - file: Inverse.ipynb
+          title:  Inverse einer Matrix
+
+    # ------------------------------------------------
+    # Kapitel 9
+    # ------------------------------------------------
+
+    - title: Lineare Abbildungen
+      children:
+
+        - file: LineareAbbildungen.ipynb
+          title:  Lineare Abbildungen
+
+        - file: KernundBild.ipynb
+          title:  Kern und Bild einer linearen Abbildung
+
+        - file: Kreuz_und_Tensorprodukt.ipynb
+          title:  Kreuzprodukt und Tensorprodukt
+
+        - file: Projektionen.ipynb
+          title:  Projektionen
+
+site:
+  template: book-theme
