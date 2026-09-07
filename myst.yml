@@ -31,8 +31,6 @@ project:
     - title: Vektoren und Matrizen
       children:
 
-       - file: 01_Matrizen_Vektoren.ipynb
-         title:  Was ist eine Matrix?
 
         - file: Matrixoperationen.ipynb
           title:  Matrixoperationen
