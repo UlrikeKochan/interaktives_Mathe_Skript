@@ -27,7 +27,8 @@ project:
     # Kapitel 4
     # ------------------------------------------------
 
-    - title: Vektoren und Matrizen
+    - file: 01_Matrizen_Vektoren.ipynb
+      title: Vektoren und Matrizen
       children:
 
         - file: Matrixoperationen.ipynb
