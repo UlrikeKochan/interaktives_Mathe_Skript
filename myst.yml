@@ -87,6 +87,24 @@ project:
         - file: Projektionen.ipynb
           title: Projektionen
 
+    - title: Orthogonalisierung und orthogonales Komplement
+      children:
+
+        - file: GramSchmidt.ipynb
+          title: Gram-Schmidt-Algorithmus
+
+        - file: OrthogonalesKomplement.ipynb  
+          title: Orthogonales Komplement eines Vektorraumes
+
+        - file: DirekteSumme.ipynb
+          title: Direkte Summe von Unterräumen
+
+        - file: Dimensionstheorem.ipynb  
+          title: Dimensionstheorem für Unterräume
+
+        - file: DimensionstheoremLGS.ipynb
+          title: Dimensionstheorem für lineare Gleichungssysteme
+
 site:
   template: book-theme
   options:
