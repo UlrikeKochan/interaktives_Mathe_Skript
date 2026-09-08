@@ -88,4 +88,7 @@ project:
           title: Projektionen
 
 site:
+site:
   template: book-theme
+  options:
+    hide_title_block: true
