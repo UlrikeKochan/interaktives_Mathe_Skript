@@ -17,15 +17,15 @@ project:
     - title: Gauß-Eliminationsverfahren
       children:
 
-        - file: 02_LineareGleichungssysteme.ipynb
-          title: Lineares Gleichungssystem
-          children:
+    - file: 02_LineareGleichungssysteme.ipynb
+      title: Lineares Gleichungssystem
+      children:
 
-         - file: balken_beispiel.ipynb
-           title: Balkenbeispiel
+        - file: balken_beispiel.ipynb
+          title: Balkenbeispiel
 
-        - file: 03_GaussEliminations.ipynb
-          title: Gauß-Elimination und Vektorräume
+    - file: 03_GaussEliminations.ipynb
+      title: Gauß-Elimination und Vektorräume
 
     # ------------------------------------------------
     # Kapitel 4
