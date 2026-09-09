@@ -14,6 +14,22 @@ project:
     # Kapitel 3
     # ------------------------------------------------
 
+    - file: Grundlagen.ipynb
+      title: Grundlagen
+      children:
+
+        - file: Symbole.ipynb
+          title: Wichtige Symbole
+
+        - file: Gruppen.ipynb
+          title: Gruppen
+
+        - file: Ringe.ipynb
+          title: Ringe
+
+        -file: Koerper.ipynb
+         title: Körper    
+
     - title: Gauß-Eliminationsverfahren
       children:
 
