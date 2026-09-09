@@ -106,7 +106,7 @@ project:
           title: Dimensionstheorem für lineare Gleichungssysteme
 
     - file: Eigenwerte.ipynb
-     tilte: Eigenwerte und Eigenvektoren
+      title: Eigenwerte und Eigenvektoren
 
 
 
