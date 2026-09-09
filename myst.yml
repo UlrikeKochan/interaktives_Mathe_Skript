@@ -19,6 +19,10 @@ project:
 
         - file: 02_LineareGleichungssysteme.ipynb
           title: Lineares Gleichungssystem
+          children:
+
+         - file: balken_beispiel.ipynb
+           title: Balkenbeispiel
 
         - file: 03_GaussEliminations.ipynb
           title: Gauß-Elimination und Vektorräume
