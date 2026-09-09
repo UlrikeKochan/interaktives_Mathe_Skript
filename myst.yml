@@ -27,8 +27,8 @@ project:
         - file: Ringe.ipynb
           title: Ringe
 
-        -file: Koerper.ipynb
-         title: Körper    
+        - file: Koerper.ipynb
+          title: Körper    
 
     - title: Gauß-Eliminationsverfahren
       children:
