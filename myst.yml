@@ -105,6 +105,11 @@ project:
         - file: DimensionstheoremLGS.ipynb
           title: Dimensionstheorem für lineare Gleichungssysteme
 
+    - title: Eigenwerte und Eigenvektoren
+      children:
+      
+            
+
 site:
   template: book-theme
   options:
