@@ -141,7 +141,7 @@ project:
           title: Addition, Subtraktion, Multiplikation und Division
 
         - file: Polarform.ipynb
-          title: Polarform und Eulersche frontmatter
+          title: Polarform und Eulersche Form
 
         - file: UmwandlungKartesischPolarform.ipynb
           title: Umwandlung von kartesischer zur Polatform
@@ -149,6 +149,20 @@ project:
         - file: UmwandlungPolarKartesisch.ipynb
           title: Umwandlung von polarer zu kartesischer Form      
 
+        - file: LGSkomplex.ipynb
+          title: Lineare Gleichungssysteme mit komplexen Zahlen
+
+        - file: HornerSchema.ipynb
+          title: Horner Schema für die Polynomdivision
+
+        - file: KomplexeGleichungen.ipynb
+          title: Komplexe Gleichungen    
+
+        - file: Einheitswurzeln.ipynb
+          title: Einheitswurzeln  
+
+        - file: KomplexeGleichungSubstitution.ipynb
+          title: Komplexe Gleichung mit Substitution
 
 
 site:
