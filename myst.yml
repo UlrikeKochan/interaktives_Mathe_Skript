@@ -22,7 +22,7 @@ project:
           title: Wichtige Symbole
 
         - file: Gruppen.ipynb
-          title: Gruppen
+          title: Gruppe
 
         - file: Ringe.ipynb
           title: Ringe
@@ -126,6 +126,28 @@ project:
 
     - file: Eigenwerte.ipynb
       title: Eigenwerte und Eigenvektoren
+
+    - file: KomplexeZahlen.ipynb
+      title: Komplexe Zahlen
+      children:
+
+        - file: GaussEbene.ipynb
+          title: Gauss-Ebene
+
+        - file: KomplexKonjugiert.ipynb
+          title: Konjugiert komplexe Zahl  
+
+        - file: RechnenKomplexeZahl.ipynb
+          title: Addition, Subtraktion, Multiplikation und Division
+
+        - file: Polarform.ipynb
+          title: Polarform und Eulersche frontmatter
+
+        - file: UmwandlungKartesischPolarform.ipynb
+          title: Umwandlung von kartesischer zur Polatform
+
+        - file: UmwandlungPolarKartesisch.ipynb
+          title: Umwandlung von polarer zu kartesischer Form      
 
 
 
