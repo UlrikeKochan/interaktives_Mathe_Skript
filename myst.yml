@@ -37,10 +37,34 @@ project:
           title: Lineares Gleichungssystem
 
         - file: 03_GaussEliminations.ipynb
-          title: Gauß-Elimination und Vektorräume
+          title: Gauß-Elimination
 
         - file: balken_beispiel.ipynb
           title: Balkenbeispiel
+
+        - file: KartesischesProdukt.ipynb
+          title: Kartesisches Produkt 
+
+        - file: Vektorraum.ipynb
+          title: Vektorräume
+
+        - file: Linearkombination.ipynb
+          title: Linearkombination
+
+        - file: Unterraeume.ipynb
+          title: Unterräume
+
+        - file: LineareAbhaengigkeit.ipynb
+          title: Lineare Abhängigkeit von Vektoren
+
+        - file: Rang.ipynb
+          title: Rang einer Matrix
+
+        - file: Spann.ipynb
+          title: Spann eines Vektorraumes
+
+        - file: Basis.ipynb
+          title: Basis eines Vektorraumes             
 
     # ------------------------------------------------
     # Kapitel 4
