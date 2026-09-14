@@ -144,7 +144,7 @@ project:
           title: Polarform und Eulersche Form
 
         - file: UmwandlungKartesischPolarform.ipynb
-          title: Umwandlung von kartesischer zur Polatform
+          title: Umwandlung von kartesischer zur Polarform
 
         - file: UmwandlungPolarKartesisch.ipynb
           title: Umwandlung von polarer zu kartesischer Form      
