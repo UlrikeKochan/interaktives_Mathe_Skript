@@ -5,6 +5,9 @@ project:
   id: 91afce94-bfdd-4622-a718-67b086c2e895
   title: Mathematik I 
 
+  jupyter:
+    lite: true
+
   toc:
 
     - file: Willkommen.ipynb
