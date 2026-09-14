@@ -28,7 +28,45 @@ project:
           title: Ringe
 
         - file: Koerper.ipynb
-          title: Körper    
+          title: Körper  
+
+    
+    - file: KomplexeZahlen.ipynb
+      title: Komplexe Zahlen
+      children:
+
+        - file: GaussEbene.ipynb
+          title: Gauss-Ebene
+
+        - file: KomplexKonjugiert.ipynb
+          title: Konjugiert komplexe Zahl  
+
+        - file: RechnenKomplexeZahl.ipynb
+          title: Addition, Subtraktion, Multiplikation und Division
+
+        - file: Polarform.ipynb
+          title: Polarform und Eulersche Form
+
+        - file: UmwandlungKartesischPolarform.ipynb
+          title: Umwandlung von kartesischer zur Polarform
+
+        - file: UmwandlungPolarKartesisch.ipynb
+          title: Umwandlung von polarer zu kartesischer Form      
+
+        - file: LGSkomplex.ipynb
+          title: Lineare Gleichungssysteme mit komplexen Zahlen
+
+        - file: HornerSchema.ipynb
+          title: Horner Schema für die Polynomdivision
+
+        - file: KomplexeGleichungen.ipynb
+          title: Komplexe Gleichungen    
+
+        - file: Einheitswurzeln.ipynb
+          title: Einheitswurzeln  
+
+        - file: KomplexeGleichungSubstitution.ipynb
+          title: Komplexe Gleichung mit Substitution        
 
     - title: Gauß-Eliminationsverfahren
       children:
@@ -150,43 +188,6 @@ project:
 
     - file: Eigenwerte.ipynb
       title: Eigenwerte und Eigenvektoren
-
-    - file: KomplexeZahlen.ipynb
-      title: Komplexe Zahlen
-      children:
-
-        - file: GaussEbene.ipynb
-          title: Gauss-Ebene
-
-        - file: KomplexKonjugiert.ipynb
-          title: Konjugiert komplexe Zahl  
-
-        - file: RechnenKomplexeZahl.ipynb
-          title: Addition, Subtraktion, Multiplikation und Division
-
-        - file: Polarform.ipynb
-          title: Polarform und Eulersche Form
-
-        - file: UmwandlungKartesischPolarform.ipynb
-          title: Umwandlung von kartesischer zur Polarform
-
-        - file: UmwandlungPolarKartesisch.ipynb
-          title: Umwandlung von polarer zu kartesischer Form      
-
-        - file: LGSkomplex.ipynb
-          title: Lineare Gleichungssysteme mit komplexen Zahlen
-
-        - file: HornerSchema.ipynb
-          title: Horner Schema für die Polynomdivision
-
-        - file: KomplexeGleichungen.ipynb
-          title: Komplexe Gleichungen    
-
-        - file: Einheitswurzeln.ipynb
-          title: Einheitswurzeln  
-
-        - file: KomplexeGleichungSubstitution.ipynb
-          title: Komplexe Gleichung mit Substitution
 
 
 site:
