@@ -197,3 +197,4 @@ site:
   template: book-theme
   options:
     hide_title_block: true
+    style: ./custom.css
