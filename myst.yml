@@ -3,7 +3,7 @@ version: 1
 
 project:
   id: 91afce94-bfdd-4622-a718-67b086c2e895
-  title: Mathematik I 
+  title: Vorlesung Mathematik I 
 
   jupyter:
     lite: true
@@ -170,6 +170,9 @@ project:
 
         - file: Projektionen.ipynb
           title: Projektionen
+
+        - file: LineareRegression.ipynb
+          title: Lineare Regression
 
     - title: Orthogonalisierung und orthogonales Komplement
       children:
