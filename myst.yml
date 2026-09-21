@@ -13,10 +13,6 @@ project:
     - file: Willkommen.ipynb
       title: Willkommen
 
-    # ------------------------------------------------
-    # Kapitel 3
-    # ------------------------------------------------
-
     - file: Grundlagen.ipynb
       title: Grundlagen
       children:
@@ -194,6 +190,13 @@ project:
 
     - file: Eigenwerte.ipynb
       title: Eigenwerte und Eigenvektoren
+
+
+    - title: Übungen
+      children:
+
+        - file: Uebung_1.ipynb
+          title: Grundlagen
 
 
 site:
