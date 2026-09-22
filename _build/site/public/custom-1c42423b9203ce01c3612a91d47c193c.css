@@ -3,7 +3,8 @@
    ================================================== */
 /* Hauptüberschrift Übungen im linken Inhaltsverzeichnis */
 a[title="Übungen"][href="/uebungen"] {
-    font-weight: 700 !important;
+    font-weight: 900 !important;
+    font-size: 1.2rem !important;
 }
 
 

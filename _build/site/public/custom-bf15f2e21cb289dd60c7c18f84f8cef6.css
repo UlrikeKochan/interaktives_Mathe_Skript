@@ -1,9 +1,12 @@
 /* ==================================================
    Hauptüberschrift Übungen
    ================================================== */
-/* Hauptüberschrift Übungen im linken Inhaltsverzeichnis */
-a[title="Übungen"][href="/uebungen"] {
-    font-weight: 700 !important;
+
+a.myst-toc-item[title="Übungen"] {
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-size: 1.15rem !important;
+    font-weight: 900 !important;
+    margin-top: 1.5rem !important;
 }
 
 

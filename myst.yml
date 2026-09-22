@@ -3,7 +3,7 @@ version: 1
 
 project:
   id: 91afce94-bfdd-4622-a718-67b086c2e895
-  # title: Vorlesung Mathematik I 
+  title: Vorlesung Mathematik I 
 
   jupyter:
     lite: true
@@ -13,12 +13,9 @@ project:
     - file: Willkommen.ipynb
       title: Willkommen
 
-    - title: Vorlesung 
+    - file: Grundlagen.ipynb
+      title: Grundlagen
       children:
-
-      - file: Grundlagen.ipynb
-        title: Grundlagen
-        children:
 
         - file: Symbole.ipynb
           title: Wichtige Symbole
@@ -31,6 +28,9 @@ project:
 
         - file: Koerper.ipynb
           title: Körper  
+
+        - file: TrigonometrischeFunktionen.ipynb
+          title: Trigonometrische Funktionen  
 
     
     - file: KomplexeZahlen.ipynb
