@@ -199,8 +199,8 @@ project:
       title: Übungen
       children:
 
-        - file: Uebung_1.ipynb
-          title: Grundlagen
+        - file: Uebung_LGS_01.ipynb
+          title: Lösen eine lin. Gleichugssystems mit dem Gauß-Eliminationsverfahren
 
 
 
